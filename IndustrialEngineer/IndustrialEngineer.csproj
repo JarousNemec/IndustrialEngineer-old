@@ -43,11 +43,16 @@
     <ItemGroup>
         <Compile Include="EarthField.cs" />
         <Compile Include="Field.cs" />
+        <Compile Include="KeyBoardManager.cs" />
         <Compile Include="MainMap.cs" />
+        <Compile Include="OreIron.cs" />
         <Compile Include="Player.cs" />
+        <Compile Include="PlayerMovementManager.cs" />
+        <Compile Include="PlayerRender.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="IndustrialEngineer.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="ThreadManager.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

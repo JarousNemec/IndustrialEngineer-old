@@ -1,12 +1,13 @@
 ﻿using System;
 using System.IO;
 using System.Runtime.InteropServices;
+using System.Threading;
 using System.Windows.Forms;
 namespace IndustrialEngineer
 {
     internal class Program
     {
-
+       
         static int SW_SHOW = 5;
         static int SW_HIDE = 0;
         private Stream s;
