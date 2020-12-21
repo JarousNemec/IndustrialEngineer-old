@@ -1,0 +1,6 @@
+C:\CSharpFiles\IndustrialEngineer\IndustrialEngineer\IndustrialEngineer\bin\Debug\IndustrialEngineer.exe
+C:\CSharpFiles\IndustrialEngineer\IndustrialEngineer\IndustrialEngineer\bin\Debug\IndustrialEngineer.pdb
+C:\CSharpFiles\IndustrialEngineer\IndustrialEngineer\IndustrialEngineer\obj\Debug\IndustrialEngineer.csprojAssemblyReference.cache
+C:\CSharpFiles\IndustrialEngineer\IndustrialEngineer\IndustrialEngineer\obj\Debug\IndustrialEngineer.csproj.CoreCompileInputs.cache
+C:\CSharpFiles\IndustrialEngineer\IndustrialEngineer\IndustrialEngineer\obj\Debug\IndustrialEngineer.exe
+C:\CSharpFiles\IndustrialEngineer\IndustrialEngineer\IndustrialEngineer\obj\Debug\IndustrialEngineer.pdb
